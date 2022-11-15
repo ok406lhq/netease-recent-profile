@@ -18,10 +18,10 @@
 获取账号 id 后，只需在你的 README 中添加以下内容，并将`id`查询参数设置为你的网易云音乐账号 id
 
 ```md
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012)](https://netease-recent-profile.vercel.app/?id=126764012)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776)](https://netease-recent-profile.vercel.app/?id=366492776)
 ```
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012)](https://netease-recent-profile.vercel.app/?id=126764012)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776)](https://netease-recent-profile.vercel.app/?id=366492776)
 
 ## ⚙ 自定义配置
 
@@ -33,10 +33,10 @@
 - 所有时间的听歌排行：设为 `0`
 
 ```md
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&type=0)](https://netease-recent-profile.vercel.app/?id=126764012&type=0)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&type=0)](https://netease-recent-profile.vercel.app/?id=366492776&type=0)
 ```
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&type=0)](https://netease-recent-profile.vercel.app/?id=126764012&type=0)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&type=0)](https://netease-recent-profile.vercel.app/?id=366492776&type=0)
 
 ### 歌曲数量
 
@@ -45,10 +45,10 @@
 - 默认为 `5` 条
 
 ```md
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&number=3)](https://netease-recent-profile.vercel.app/?id=126764012&number=3)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&number=3)](https://netease-recent-profile.vercel.app/?id=366492776&number=3)
 ```
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&number=3)](https://netease-recent-profile.vercel.app/?id=126764012&number=3)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&number=3)](https://netease-recent-profile.vercel.app/?id=366492776&number=3)
 
 ### 标题
 
@@ -57,10 +57,10 @@
 - 默认标题为 `Recently Played`
 
 ```md
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&title=最近在听)](https://netease-recent-profile.vercel.app/?id=126764012&title=最近在听)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&title=最近在听)](https://netease-recent-profile.vercel.app/?id=366492776&title=最近在听)
 ```
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&title=最近在听)](https://netease-recent-profile.vercel.app/?id=126764012&title=最近在听)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&title=最近在听)](https://netease-recent-profile.vercel.app/?id=366492776&title=最近在听)
 
 ### 卡片宽度
 
@@ -69,10 +69,10 @@
 - 默认宽度为 `280`
 
 ```md
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&width=350)](https://netease-recent-profile.vercel.app/?id=126764012&width=350)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&width=350)](https://netease-recent-profile.vercel.app/?id=366492776&width=350)
 ```
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&width=350)](https://netease-recent-profile.vercel.app/?id=126764012&width=350)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&width=350)](https://netease-recent-profile.vercel.app/?id=366492776&width=350)
 
 ### 歌曲图片大小
 
@@ -81,10 +81,10 @@
 - 默认图片大小为 `800`，尺寸越小，优点是 svg 尺寸较小、请求返回的时间变短，缺点是图片会失真变模糊
 
 ```md
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&size=60)](https://netease-recent-profile.vercel.app/?id=126764012&size=60)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&size=60)](https://netease-recent-profile.vercel.app/?id=366492776&size=60)
 ```
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&size=60)](https://netease-recent-profile.vercel.app/?id=126764012&size=60)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&size=60)](https://netease-recent-profile.vercel.app/?id=366492776&size=60)
 
 ### 是否显示听歌次数对比百分比
 
@@ -94,10 +94,10 @@
 - 传入 `1`：即表示为打开此特性
 
 ```md
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&show_percent=1)](https://netease-recent-profile.vercel.app/?id=126764012&show_percent=1)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&show_percent=1)](https://netease-recent-profile.vercel.app/?id=366492776&show_percent=1)
 ```
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&show_percent=1)](https://netease-recent-profile.vercel.app/?id=126764012&show_percent=1)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&show_percent=1)](https://netease-recent-profile.vercel.app/?id=366492776&show_percent=1)
 
 ### 设置缓存时间
 
@@ -109,7 +109,7 @@
 > 这里使用缓存来减少服务器的负载及响应时间，其中缓存的最小值为 4 小时，最大值为 24 小时。
 
 ```md
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&cache=28800)](https://netease-recent-profile.vercel.app/?id=126764012&cache=28800)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=366492776&cache=28800)](https://netease-recent-profile.vercel.app/?id=366492776&cache=28800)
 ```
 
 ## 📄 开源协议
